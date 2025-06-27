@@ -1,0 +1,17 @@
+DepartementName:Test Dep1
+CityName:City1
+Code:1
+CityName:City2
+Code:2
+
+DepartementName:Test Dep2
+CityName:City3
+Code:3
+CityName:City4
+Code:4
+
+DepartementName:Test Dep3
+CityName:City5
+Code:5
+CityName:City6
+Code:6

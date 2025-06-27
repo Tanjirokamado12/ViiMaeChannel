@@ -1,0 +1,49 @@
+Area:1
+
+Name of Area:Test Area 1
+
+AreaName:First Area
+AreaCode:28484849
+kanji1:1
+Kanji2: Vii no Ma Street
+Kanji3:3
+Kanji4:4
+
+AreaName:Second Area
+AreaCode:11111111
+kanji1:5
+Kanji2: Vii no Ma Street
+Kanji3:7
+Kanji4:8
+
+AreaName:Third Area
+AreaCode:2182882827
+kanji1:9
+Kanji2: Vii no Ma Street
+Kanji3:11
+Kanji4:12
+
+Area:2
+
+Name of Area: Test Area 2
+
+AreaName:First Area
+AreaCode:1939939939
+kanji1:1
+Kanji2: Vii no Ma Street
+Kanji3:
+Kanji4:
+
+AreaName:Second Area
+AreaCode:23203003033
+kanji1:1
+Kanji2: Vii no Ma Street
+Kanji3:3
+Kanji4:4
+
+AreaName:Third Area
+AreaCode:0994094404
+kanji1:1
+Kanji2: Vii no Ma Street
+Kanji3:3
+Kanji4:4
